@@ -1,7 +1,7 @@
-// Add minimal typings for GSAP Trial plugins that don't provide their own TypeScript declarations.
-// This prevents TS7016 errors when importing from "gsap-trial/…".
+// Add minimal typings for GSAP plugins that don't provide their own TypeScript declarations.
+// This prevents TS7016 errors when importing from "gsap/…".
 
-declare module "gsap-trial/SplitText" {
+declare module "gsap/SplitText" {
   export interface SplitTextConfig {
     type?: string;
     linesClass?: string;
@@ -19,7 +19,7 @@ declare module "gsap-trial/SplitText" {
   }
 }
 
-declare module "gsap-trial/ScrollSmoother" {
+declare module "gsap/ScrollSmoother" {
   export interface ScrollSmootherConfig {
     wrapper?: string | HTMLElement;
     content?: string | HTMLElement;
