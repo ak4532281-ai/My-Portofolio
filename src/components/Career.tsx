@@ -15,43 +15,41 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Web Developer Intern</h4>
+                <h5>Code Soft</h5>
               </div>
-              <h3>2020</h3>
+              <h3>June 2024 - August 2024</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Designed and developed full stack web projects including a hospital
+              management system and shopping website. Collaborated on responsive
+              UI/UX and optimized backend APIs.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Artificial Intelligence Intern</h4>
+                <h5>Corizo</h5>
               </div>
-              <h3>2021</h3>
+              <h3>Jan 2026 - Feb 2026</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
+              Worked on AI-based analytics components and data workflows for
+              real-time insights.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Data Science Intern</h4>
+                <h5>Corizo</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>Feb 2026 - Mar 2026</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Performed data preprocessing, model training, and evaluation for
+              business intelligence use cases.
             </p>
           </div>
         </div>
