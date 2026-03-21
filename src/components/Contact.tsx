@@ -30,7 +30,7 @@ const Contact = () => {
               Github <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/aniket-kumar"
+              href="https://www.linkedin.com/in/aniket-kumar-a97851324?utm_source=share_via&utm_content=profile&utm_medium=member_android"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -38,15 +38,15 @@ const Contact = () => {
               LinkedIn <MdArrowOutward />
             </a>
             <a
-              href="https://github.com/ak4532281-ai"
+              href="https://www.facebook.com/profile.php?id=61578832027914"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
-              Twitter <MdArrowOutward />
+              Facebook <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/aniket.kumar"
+              href="https://www.instagram.com/xtremo631?igsh=Ym43aWQ0djcxNmtw&utm_source=ig_contact_invite"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
